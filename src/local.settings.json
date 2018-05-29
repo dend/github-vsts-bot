@@ -1,0 +1,20 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "~1",
+    "ScmType": "None",
+    "GITHUB_CREDENTIALS": "",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "OSPO_API_VERSION": "",
+    "VSTS_OSPO_CREDENTIALS": "",
+    "APPINSIGHTS_INSTRUMENTATIONKEY": "",
+    "AzureWebJobsDashboard": "",
+    "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "",
+    "WEBSITE_CONTENTSHARE": "",
+    "WEBSITE_SITE_NAME": "",
+    "VSTS_CREDENTIALS": "",
+    "AzureWebJobsStorage": ""
+  }
+}
